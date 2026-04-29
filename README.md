@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my git learning repository . 
 <br/>
-<h1>Authoe - Moni Soni</h1>
+<h3>Authoe - Moni Soni(apna colllege)</h3>
